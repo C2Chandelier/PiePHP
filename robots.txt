@@ -1,0 +1,4 @@
+user-agent: *
+disallow: .htaccess
+disallow .gitignore
+disallow Core/.env
